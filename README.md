@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iqpizza6349
-- 👀 I’m interested in web && android
+- 👀 I’m interested in android
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
