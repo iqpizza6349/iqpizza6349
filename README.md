@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iqpizza6349
 - 👀 I’m interested in android
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
