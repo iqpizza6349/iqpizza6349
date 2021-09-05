@@ -1,3 +1,4 @@
+[![iqpizza6349's GitHub stats](https://github-readme-stats.vercel.app/api?username=iqpizza6349)](https://github.com/iqpizza6349/github-readme-stats)
 - 👋 Hi, I’m @iqpizza6349
 - 👀 I’m interested in android
 - 🌱 I’m currently learning Java and Python
