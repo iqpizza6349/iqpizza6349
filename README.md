@@ -16,6 +16,7 @@
 
 🎇my Fun Projetcs
 - MineCraft RPG Plugin (Java)
+- Casino Discord Bot (JDA[Java])
 
 <!---
 iqpizza6349/iqpizza6349 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
