@@ -1,17 +1,17 @@
 [![iqpizza6349's GitHub stats](https://github-readme-stats.vercel.app/api?username=iqpizza6349)](https://github.com/iqpizza6349/github-readme-stats)
 
 🔨 I’m currently working on ...
-- SCB (StarCraft Bot Club) - Team Member
-- Ducami - MineCraft Plugin Maker
+- null
 
 ♟ I'm currently using ...
 - Java (Eclipse, IntelliJ)
 - BWAPI (BroodWar API)
-- discord bot (Python)
+- discord bot (Java)
 - Android Studio
 
 🖊 I'm currently learning ...
 - BWAPI
+- Java
 - Android Studio
 
 🎇my Fun Projetcs
