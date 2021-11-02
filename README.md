@@ -1,7 +1,7 @@
 [![iqpizza6349's GitHub stats](https://github-readme-stats.vercel.app/api?username=iqpizza6349)](https://github.com/iqpizza6349/github-readme-stats)
 
 🔨 I’m currently working on ...
-- null
+- StarCraft Bot Club
 
 ♟ I'm currently using ...
 - Java (Eclipse, IntelliJ)
