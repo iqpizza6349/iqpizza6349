@@ -5,14 +5,12 @@
 
 ♟ I'm currently using ...
 - Java (Eclipse, IntelliJ)
-- BWAPI (BroodWar API)
-- discord bot (Java)
-- Android Studio
 
 🖊 I'm currently learning ...
 - BWAPI
 - Java
 - Android Studio
+- Java Spring boot
 
 🎇my Fun Projetcs
 - MineCraft RPG Plugin (Java)
