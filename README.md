@@ -7,7 +7,7 @@
 - Java (Eclipse, IntelliJ)
 
 🖊 I'm currently learning ...
-- BWAPI
+- BWAPI & ASS
 - Java
 - Android Studio
 - Java Spring boot
