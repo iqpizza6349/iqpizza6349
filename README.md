@@ -3,8 +3,6 @@
 <h3>🔨 I’m currently working on ...</h3>
 
 StarCraft Bot Club
-<img src="https://user-images.githubusercontent.com/62752667/142096074-c62541a4-fd8b-44e0-ab67-3f0e8181ee7b.png" width="5%" height="5%">
-
 
 <h3>♟ I'm currently learning and using ...</h3>
 
