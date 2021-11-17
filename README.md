@@ -15,17 +15,19 @@ StarCraft Bot Club
   <img src="https://img.shields.io/badge/Heroku-purple?style=flat-square&logo=heroku&logoColor=white"/>
   <img src="https://img.shields.io/badge/AndroidStudio-skyblue?style=flat-square&logo=androidStudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-white?style=flat-square&logo=JetBrains&logoColor=black"/>
+   <img src="https://img.shields.io/badge/Postman-orange?style=flat-square&logo=PostMan&logoColor=white"/>
 </h2>
 
 🎇my Fun Projetcs
-- MineCraft RPG Plugin (Java)
-- Casino Discord Bot (JDA[Java])
+- MineCraft RPG Plugin (Java) <img src="https://img.shields.io/badge/minecraft-gray?style=flat-square&logo=minecraft&logoColor=white"/>
+- Casino Discord Bot (JDA[Java]) <img src="https://img.shields.io/badge/discord-blue?style=flat-square&logo=discord&logoColor=white"/>
 
 🎈 about me
 <h2>
   <a href="mailto:iqpizza@dgsw.hs.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://workshop-6349.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-black?style=flat-square&logo=T-mobile&logoColor=white"/></a>
   <a href="https://github.com/iqpizza6349" target="_blank"><img src="https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/IQPIZZA6349-gray?style=flat-square&logo=discord&logoColor=white"/>
 </h2>
 
 <!---
