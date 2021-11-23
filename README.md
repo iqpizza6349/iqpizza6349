@@ -19,7 +19,7 @@ StarCraft Bot Club
 </h2>
 
 🎇my Fun Projetcs
-- MineCraft RPG Plugin (Java) <img src="https://img.shields.io/badge/minecraft-gray?style=flat-square&logo=minecraft&logoColor=white"/>
+- MineCraft Plugins <img src="https://img.shields.io/badge/minecraft-gray?style=flat-square&logo=minecraft&logoColor=white"/>
 - Casino Discord Bot (JDA[Java]) <img src="https://img.shields.io/badge/discord-blue?style=flat-square&logo=discord&logoColor=white"/>
 
 🎈 about me
