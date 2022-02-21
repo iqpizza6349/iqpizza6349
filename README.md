@@ -5,11 +5,10 @@
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white"/><br/>
-  <img src="https://img.shields.io/badge/IntelliJ-white?style=for-the-badge&logo=JetBrains&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Spring Security-green?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=white"/></br>
   <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=PostMan&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Security-green?style=for-the-badge&logo=springsecurity&logoColor=white"/>
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iqpizza6349&show_icons=true&theme=cobalt)
