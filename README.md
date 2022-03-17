@@ -1,14 +1,15 @@
 # 🌱 About Me
 > 자라나는 고등학생 개발자
 <div>
-  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Java-critical?style=for-the-badge&logo=java&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-blueviolet?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=white"/></br>
   <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=PostMan&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Security-green?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-important?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iqpizza6349&show_icons=true&theme=cobalt)
