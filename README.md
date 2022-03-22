@@ -9,7 +9,8 @@
   <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=PostMan&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Security-green?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-important?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-important?style=for-the-badge&logo=git&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/React-skyblue?style=for-the-badge&logo=react&logoColor=white"/>
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iqpizza6349&show_icons=true&theme=cobalt)
