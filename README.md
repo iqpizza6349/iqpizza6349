@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Java_script-yellow?style=for-the-badge&logo=javascript&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/git-important?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-skyblue?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Type_script-blue?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iqpizza6349&show_icons=true&theme=cobalt)
