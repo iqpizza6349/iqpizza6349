@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/React-skyblue?style=for-the-badge&logo=react&logoColor=white"/>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iqpizza6349&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iqpizza6349&count_private=true&show_icons=true&theme=cobalt)
 
 <h3>📱 Team</h3>
 
