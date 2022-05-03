@@ -1,5 +1,5 @@
-# 🌱 About Me
-> 자라나는 고등학생 개발자
+# 🍕 About Me
+> 토핑 올려지고 있는 고등학생 도우입니다.
 <div>
   <img src="https://img.shields.io/badge/Java-critical?style=for-the-badge&logo=java&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
@@ -23,8 +23,3 @@
 * dgswCNS: 2021.12.27 ~ 현재
   * 대구소프트웨어마이스터고 입학전형시스템 개발팀
   * 벡엔드 3기 팀원
-
-<!---
-iqpizza6349/iqpizza6349 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
