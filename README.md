@@ -32,3 +32,6 @@
 * dgswCNS: 2021.12.27 ~ 현재
   * 대구소프트웨어마이스터고 입학전형시스템 개발팀
   * 벡엔드 3기 팀원
+
+📝 [Portfoilo](https://iqpizza6349.notion.site/iqpizza6349-d1e628cda17b48eb9747328346bf2a98)
+-------
