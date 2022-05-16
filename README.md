@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=PostMan&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GoogleCloud-white?style=for-the-badge&logo=GoogleCloud&logoColor=rainbow"/>
 </div>
 <h2>📱 Team</h2>
 
