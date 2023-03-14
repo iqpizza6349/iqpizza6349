@@ -33,6 +33,6 @@
   * 대구소프트웨어마이스터고 입학전형시스템 개발팀
   * 벡엔드 3기 팀원
 
-📝 [Portfoilo](https://iqpizza6349.notion.site/83baabb7d94949e68cc62d2a18574fcd) | [Spring & Java Note](https://iqpizza6349.notion.site/e21bba5a5570421085b134a3650ebb55) | [Blog](https://workshop-6349.tistory.com/)
+📝 [Portfoilo](https://iqpizza6349.notion.site/54c33f54d6ae41a3adfb3ba1c1b6a7df) | [Spring & Java Note](https://iqpizza6349.notion.site/e21bba5a5570421085b134a3650ebb55) | [Blog](https://workshop-6349.tistory.com/)
 
 -------
