@@ -35,5 +35,3 @@
   * 벡엔드 3기 팀원
 
 📝 [Portfoilo](https://iqpizza6349.notion.site/54c33f54d6ae41a3adfb3ba1c1b6a7df) | [Blog](https://workshop-6349.tistory.com/)
-
--------
