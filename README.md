@@ -2,7 +2,7 @@
 > 토핑이 올려지고 있는 도우입니다. 화덕에서 구워지기 위해 노력하고 있습니다. <br>
 > 기존 만들어진 프로세스 개선이나 효율성을 높이는 작업에 즐거움을 느끼고 있습니다.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iqpizza6349&count_private=true&show_icons=true&theme=cobalt)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iqpizza6349&show_icons=true&theme=tokyonight)
 
 <div>
   <h2>⛏ Language & Framework</h2>
