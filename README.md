@@ -41,10 +41,4 @@
 </div>
 <h2>👨‍💻 Career</h2>
 
-* StarCraft Bot Club: 2021.03.12 ~ 2021.12.20
-  * 스타크래프트 인공지능 개발 동아리
-* dgswCNS: 2021.12.27 ~ 현재
-  * 대구소프트웨어마이스터고 입학전형시스템 개발팀
-  * 벡엔드 3기 팀원
-
 📝 [Portfoilo](https://iqpizza6349.notion.site/54c33f54d6ae41a3adfb3ba1c1b6a7df) | [Blog](https://workshop-6349.tistory.com/)
