@@ -3,6 +3,7 @@
 > 기존 만들어진 프로세스 개선이나 효율성을 높이는 작업에 즐거움을 느끼고 있습니다.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iqpizza6349&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqpizza6349&layout=compact)
 
 <div>
   <h2>⛏ Language & Framework</h2>
