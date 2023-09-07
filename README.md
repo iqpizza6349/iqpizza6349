@@ -42,6 +42,6 @@
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=Apache Kafka&logoColor=white"/>
 </div>
-<h2>👨‍💻 Career</h2>
+<h2>📚 Contact</h2>
 
 📝 [Portfoilo](https://iqpizza6349.notion.site/f81ca145f0154bb288b2636fe0c248a7?pvs=4) | [Blog](https://workshop-6349.tistory.com/)
