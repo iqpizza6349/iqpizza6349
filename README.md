@@ -7,17 +7,17 @@
 
 <div>
   <h2>⛏ Language & Framework</h2>
-  <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=OpenJDK&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <div>
     <h4>✍ currently learning</h4>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=TypeScript&logoColor=white"/>
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Rust-%23000000?style=for-the-badge&logo=Rust&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=React&logoColor=2361DAFB"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   </div>
 </div>
